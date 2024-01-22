@@ -1,6 +1,6 @@
 ### About
 
-Hello, I'm Mauro, working in Computer Science at the [University of Zurich](https://www.uzh.ch/de.html) in the [Institute for Computational Science](https://www.ics.uzh.ch/en/) in the group of Professor [Robert Feldmann](https://www.ics.uzh.ch/~feldmann/). My research interests orbit around Machine/Deep Learning applications in structure formation such as the cosmic web and galaxies.
+Hello, I'm Mauro, working in Computer Science at the [University of Zurich](https://www.uzh.ch/de.html) in the [Institute for Astrophysics](https://www.ics.uzh.ch/en/) in the group of Professor [Robert Feldmann](https://www.ics.uzh.ch/~feldmann/). My research interests orbit around Machine/Deep Learning applications in structure formation such as the cosmic web and galaxy formation.
 
 My CV can be found [here (Dec. 2023)](https://maurbe.github.io/home/src/cv_dec_23.pdf).
 
