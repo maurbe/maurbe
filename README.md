@@ -2,7 +2,7 @@
 
 Hi there, I am Mauro, an astrophysicist and data scientist by training with a passion for coding and everything AI-related. I love to explore new ways to visualize complex data sets and research results. Find out more through my CV below. When I am not working on projects, you will probably find me outdoors, training handstands or reading a good book. Feel free to reach out, whether it's serious business or just for a friendly hi!
 
-My CV can be found [here (December 2025)](https://maurbe.github.io/static/CV_academic-79759c9a72db90709904446cb40e4492.pdf).
+My Academic CV can be found [here (December 2025)](https://maurbe.github.io/static/CV_academic-79759c9a72db90709904446cb40e4492.pdf).
 
 <!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=maurbe&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
