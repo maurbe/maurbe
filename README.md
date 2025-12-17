@@ -1,6 +1,6 @@
 ### About
 
-Hello, I'm Mauro, working in Computer Science at the [University of Zurich](https://www.uzh.ch/de.html) in the [Department for Astrophysics](https://www.ics.uzh.ch/en/) in the group of Professor [Robert Feldmann](https://www.ics.uzh.ch/~feldmann/). My research interests orbit around Machine/Deep Learning applications in structure formation such as the cosmic web and galaxy formation and the physics of Active Galactic Nuclei.
+Hi there, I am Mauro, an astrophysicist and data scientist by training with a passion for coding and everything AI-related. I love to explore new ways to visualize complex data sets and research results. Find out more through my CV below. My research interests orbit around Machine/Deep Learning applications in structure formation such as the cosmic web and galaxy formation and the physics of Active Galactic Nuclei. When I am not working on projects, you will probably find me outdoors, training handstands or reading a good book. Feel free to reach out, whether it's serious business or just for a friendly hi!
 
 My CV can be found [here (December 2025)](https://maurbe.github.io/static/CV_academic-79759c9a72db90709904446cb40e4492.pdf).
 
