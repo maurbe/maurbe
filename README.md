@@ -8,6 +8,10 @@ My academic CV can be found [here (December 2025)](https://maurbe.github.io/stat
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurbe&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 <!--
 **maurbe/maurbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
