@@ -6,7 +6,6 @@ My academic CV can be found [here (December 2025)](https://maurbe.github.io/stat
 <!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=maurbe&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurbe&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
