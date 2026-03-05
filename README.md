@@ -5,12 +5,10 @@ Fin out more through my [portfolio](https://maurbe.github.io/).
 <!--
 My academic CV can be found [here (December 2025)](https://maurbe.github.io/static/CV_academic-79759c9a72db90709904446cb40e4492.pdf).
 -->
-<!--
 ![Stats](./profile/stats.svg)
+<!--
 ![Top Languages](./profile/top-langs.svg)
 -->
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 **maurbe/maurbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
