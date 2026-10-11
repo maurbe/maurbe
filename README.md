@@ -6,9 +6,6 @@ Find out more through my [portfolio](https://maurbe.github.io/).
 My academic CV can be found [here (December 2025)](https://maurbe.github.io/static/CV_academic-79759c9a72db90709904446cb40e4492.pdf).
 -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=maurbe&hide_progress=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=maurbe&hide_progress=true&theme=dark_github)
-<!--
-![Top Languages](./profile/top-langs.svg)
--->
 
 <!--
 **maurbe/maurbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
